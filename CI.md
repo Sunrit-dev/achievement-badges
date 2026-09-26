@@ -7,3 +7,4 @@ ci: workflow note 4
 ci: workflow note 5
 ci: workflow note 6
 ci: workflow note 7
+ci: workflow note 8
